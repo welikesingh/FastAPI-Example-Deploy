@@ -83,7 +83,7 @@ def get_user(user_id: int):
 # uvicorn UserFASTapi:app --reload
 
 # Render deployment Start command
-# uvicorn testing:app --host 0.0.0.0 --port 10000
+# uvicorn UserFASTapi:app --host 0.0.0.0 --port 10000
 
 
 
